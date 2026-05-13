@@ -1,4 +1,3 @@
 # Cellular-Automata
-Learning Cellular Automata
-
-# Recreating conways game of life using matplotlib 
+Learning cellular Automata and recreating conways game of life using matplotlib 
+Added a preset that creates a glider and two R-Pentomino's
